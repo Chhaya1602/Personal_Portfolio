@@ -1,4 +1,4 @@
-# Aryan Jain's Portfolio Website
+# Personal Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and achievements in the field of web development, including my expertise in the MERN stack, problem-solving with data structures and algorithms, and proficiency in C/C++ and Android development.
 
