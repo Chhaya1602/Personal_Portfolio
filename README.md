@@ -13,7 +13,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## Introduction
 
-Hi! I'm Aryan Jain, a passionate and creative problem solver. I specialize in web development, mobile app development, and competitive programming. This portfolio is a collection of my personal projects, coding achievements, and professional milestones.
+Hi! I'm Chhaya Mandlik, a passionate and creative problem solver. I specialize in web development, mobile app development, and competitive programming. This portfolio is a collection of my personal projects, coding achievements, and professional milestones.
 
 Feel free to explore and learn more about the work I’ve done. I continuously strive to improve my skills and contribute to innovative solutions.
 
@@ -44,7 +44,7 @@ For more details about my projects, check out the links on the homepage and expl
 
 You can view my portfolio website by visiting the link below:
 
-- [Portfolio](https://aryan1004.vercel.app/)
+
 
 Feel free to browse through the website and explore my projects, achievements, and contact information.
 
